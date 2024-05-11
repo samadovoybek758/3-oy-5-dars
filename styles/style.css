@@ -352,6 +352,7 @@ main h3{
 .footer__tepa{
    padding-top: 64px;
     background-color: #F2F8FF;
+    padding-bottom: 56px;
 }
 .перезвоним h1{
     font-size: 44px;
@@ -379,7 +380,6 @@ main h3{
     gap: 24px;
     height: 50px;
     margin-left: 346px;
-    margin-bottom: 56px;
 }
 .перезвоним__input input{
     padding: 17.5px 146.5px 17.5px 16px;
@@ -400,4 +400,69 @@ main h3{
     font-size: 16px;
     line-height: 26px;
     color: rgba(69, 79, 91, 1);
+}
+
+
+.footer__osti{
+    background-color: rgba(13, 36, 54, 1);
+}
+.footer__osti2{
+    max-width: 1440px;
+    padding: 50px 81px 60px 100px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.ijtimoiy{
+    margin-top: 144px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    
+}
+.centure{
+    display: flex;
+    gap: 97px;
+    color: white;
+}
+.centure ul{
+    list-style-type: none;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+}
+.centure ul li:first-child{
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+}
+.centure ul li{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    max-width: 182px;
+}
+.kichik{
+    line-height: 16.71px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #C4CDD5;
+}
+.k{
+    margin-top: 8px;
+}
+.tagchiziq2{
+    width: 1440px;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.reserved{
+    color: white;
+    font-size: 14px;
+    line-height: 16.71px;
+    font-weight: 400;
+    margin-left: 606px;
+    opacity: 60%;
 }

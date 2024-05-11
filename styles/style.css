@@ -333,7 +333,7 @@ main h3{
     width: 17px;
     height: 18px;
     background-color: #4295E4;
-    padding:1px 5px;
+    padding:0px 5px 10px 5px ;
 }
 .main-2__span{
     font-size: 20px;

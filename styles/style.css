@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "SF Pro Text";
+    font-family: sans-serif;
 }
 body{
     display: flex;
@@ -267,4 +267,77 @@ main h3{
     border-radius: 2px;
     text-align: center;
    
+}
+
+
+/* main-2 */
+.main-2{
+    max-width: 1242px;
+    margin: 100px 99px 96px 99px;
+}
+.main-2__card h1{
+    font-size: 44px;
+    line-height: 64px;
+    font-weight: 600;
+}
+.недавно{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 64px;
+}
+.main-2__img{
+    display: flex;
+    gap: 40px;
+}
+.GoldenSoft__card{
+    height: 426px;
+}
+
+
+/* footer,section-4 */
+.Eget{
+    margin: 0 100px 100px 100px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.Eget h3{
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #161C24;
+    margin-top: 81px;
+    margin-bottom: 24px;
+}
+.Eget p{
+    font-size: 18px;
+    line-height: 32px;
+    color: #454F5B;
+    width: 525px;
+    height: 96px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.дверь{
+    display: flex;
+    gap: 32px;
+}
+.Межкомнатую{
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+}
+.ptichka {
+    width: 17px;
+    height: 18px;
+    background-color: #4295E4;
+    padding:1px 5px;
+}
+.main-2__span{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #161C24;
+    opacity: 90%;
 }
